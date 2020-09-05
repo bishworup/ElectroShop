@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import com.bishworup.electroshop.R;
+
 public class SignupActivity extends AppCompatActivity {
 
     @Override
